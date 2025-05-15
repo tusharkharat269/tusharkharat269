@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year Bachelor of Engineering student with a strong foundation in data science, machine learning, and full-stack development. I have worked on a variety of projects with skills span across Python, Java, Spring Boot, Flutter, TensorFlow, and database technologies like MySQL and Supabase. I am deeply interested in applying AI to solve real-world problems, particularly in areas like computer vision and driver safety. I’ve solved over 500+ DSA problems and continue to enhance my technical acumen through hands-on development and academic research.<br><br>
+I am a Bachelor of Engineering graduate with a specialization in Computer Engineering, possessing a strong foundation in data science, machine learning, and full-stack development. I have worked on a variety of projects, with skills spanning Python, Java, Spring Boot, TensorFlow, and database technologies like MySQL and Supabase. I am deeply interested in applying AI to solve real-world problems. I’ve solved 500+ DSA problems and continue to enhance my technical acumen through hands-on development and academic research..<br><br>
 
 
 ## 🌐 Socials:
